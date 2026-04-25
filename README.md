@@ -1,6 +1,8 @@
 # Handwritten-Word-Image-Recognition
 This project implements handwritten text recognition using Microsoft's TrOCR pretrained transformer model for real-world handwriting images and a custom ANN on the MNIST dataset for digit classification. It includes batch prediction on 500 images and visual comparison of ANN, CNN, RNN, and Hybrid model performance metrics.
+
 ✍️ Handwritten Text Recognition
+
 A deep learning project that recognizes and transcribes handwritten text using Microsoft's TrOCR (Transformer-based OCR) model and an ANN trained on the MNIST dataset.
 
 📌 Overview
@@ -12,7 +14,8 @@ ANN on MNIST — A custom Artificial Neural Network trained from scratch to clas
 Additionally, a comparative analysis of four model architectures (ANN, CNN, RNN, Hybrid) is visualized using bar charts and pie charts.
 
 🧠 Models Used
-ModelPurposemicrosoft/trocr-small-handwrittenHandwritten word/sentence recognitionANN (TensorFlow/Keras)Handwritten digit classification (MNIST)
+ModelPurpose
+microsoft/trocr-small-handwrittenHandwritten word/sentence recognitionANN (TensorFlow/Keras)Handwritten digit classification (MNIST)
 
 📂 Project Structure
 handwritten_text_generation_rithikaa.ipynb   # Main notebook
